@@ -83,6 +83,7 @@ Name | Description | install | Authored
 Name | Description | install | Authored
 ------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/zohararad/audio5js" target="_blank">audio5</a> | Audio5js a library-agnostic, cross-browser Javascript API for HTML5 Audio, with a Flash fallback for either older browsers or modern browsers without MP3 playback support. | ` npm i -S audio5` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/cotejp/webmidi" target="_blank">webmidi</a> | WebMidi.js helps you tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend, controlchange, etc.). | ` npm i -S webmidi ` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Slider
 
