@@ -237,16 +237,23 @@ Name | Description | install | Authored
 <a href="https://github.com/andjosh/gatrack.js" target="_blank">GATracks</a> | Easily track user events with Google Analytics | ` npm i -S gatrack` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Social network
+
 Name | Description | install | Authored
 ------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/ttezel/twit" target="_blank">Twit</a> | Twitter API client for node (REST &amp; Streaming) | ` npm i -S twit` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/totemstech/instagram-node" target="_blank">Instagram-node</a> | NodeJS driver for the instagram API | ` npm i -S instagram-node` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/node-facebook/facebook-node-sdk" target="_blank">Fb</a> | With facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK) | ` npm i -S fb` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
+## Data visualization
+
+Name | Description | install | Authored
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/pcbje/ggraph" target="_blank">ggraph</a> | Graph visualization of big messy data | ` npm i -S ggraph ` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
 ## Tiers service
 Name | Description | install |Authored
 ------------- | ------------- | ------------- | ------------- | 
-<a href="https://github.com/ttezel/twit" target="_blank">Mandrill</a> | JS wrapper for mandrill API  | ` npm i -S mandrill-api` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="http://www.mandrill.com/" target="_blank">Mandrill</a> | JS wrapper for mandrill API  | ` npm i -S mandrill-api` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Translations
 Name | Description | install  | Authored
