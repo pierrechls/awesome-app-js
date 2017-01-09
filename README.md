@@ -1,4 +1,4 @@
-# Awesome app
+# Awesome JavaScript libraries
 
 This document list javascript libraries that I use. They are compatible with Webpack and run in the browser and / or node only. Let's build something great ! ⚒
 
