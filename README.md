@@ -71,6 +71,7 @@ Name | Description | install | Authored
 <a href="https://github.com/leeoniya/RgbQuant.js/" target="_blank">RgbQuant</a> | Color quantization lib | ` npm i -S rgbquant` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/blueimp/JavaScript-Load-Image" target="_blank">Javascript-Load-Image</a> | JavaScript Load Image is a library to load images provided as File or Blob objects or via URL |  `npm i -S blueimp-load-image` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/imulus/retinajs" target="_blank">RetinaJS</a> | Open source script that serves high-resolution images to devices with retina displays | ` npm i -S retina.js` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/mattnedrich/palette-maker" target="_blank">palette-maker</a> | Palette Maker is an interactive web tool that allows you to explore different approaches to extract color palettes from images | ` npm i -S palette-maker` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Video playback
 
@@ -251,11 +252,13 @@ Name | Description | install | Authored
 <a href="https://github.com/pcbje/ggraph" target="_blank">ggraph</a> | Graph visualization of big messy data | ` npm i -S ggraph ` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Tiers service
+
 Name | Description | install |Authored
 ------------- | ------------- | ------------- | ------------- | 
 <a href="http://www.mandrill.com/" target="_blank">Mandrill</a> | JS wrapper for mandrill API  | ` npm i -S mandrill-api` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Translations
+
 Name | Description | install  | Authored
 ------------- | ------------- | ------------- | ------------- |
 <a href="http://i18next.com/" target="_blank">i18next</a> | internationalization framework  | ` npm i -S i18next` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
