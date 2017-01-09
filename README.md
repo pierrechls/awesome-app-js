@@ -211,8 +211,9 @@ Name | Description | install | Authored
 <a href="http://wicky.nillia.ms/enquire.js" target="_blank">Enquire</a> | a lightweight, pure JavaScript library for responding to CSS media queries | ` npm i -S enquire.js` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://modernizr.com/docs" target="_blank">Modernizr</a> | Automatically detects the availability of next-generation web technologies in your user's browsers | ` npm i -S -g modernizr` | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 <a href="http://verge.airve.com/" target="_blank">Verge</a> | Compact set of cross-browser viewport utilities written in native JavaScript | ` npm i -S verge` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="http://sizzlejs.com/" target="_blank">Sizzle</a> | A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library |  ` npm i -S sizzle` (might not be same team) (to test if automatic css prefixing) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="http://sizzlejs.com/" target="_blank">Sizzle</a> | A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library |  ` npm i -S sizzle` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/Sopamo/vue-online" target="_blank">vue-online</a> | A reactive online/offline component for vue.js |  ` npm i --save-dev vue-online` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/sindresorhus/opn" target="_blank">opn</a> | A better node-open. Opens stuff like websites, files, executables. Cross-platform. |  ` npm i --S opn` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Pdf
 
