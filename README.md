@@ -3,30 +3,30 @@
 This document lists javascript libraries that I use. They are compatible with Webpack and run in the browser and / or node only. Let's build something great ! ⚒
 
 ## Routing
-Name | Description | install | Trend | Compat | Authored
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<a href="https://millermedeiros.github.io/crossroads.js/" target="_blank">Crossroads</a> | It parses a string input and decides which action should | ` npm i -S crossroads` | [<img src="https://img.shields.io/npm/dm/crossroads.svg" align="right">](https://www.npmjs.com/package/crossroads) | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="https://github.com/millermedeiros/hasher/" target="_blank">Hasher</a> | Set of functions to control browser history | ` npm i -S hasher` | [<img src="https://img.shields.io/npm/dm/hasher.svg" align="right">](https://www.npmjs.com/package/hasher) | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+Name | Description | install | Authored
+------------- | ------------- | ------------- | ------------- |
+<a href="https://millermedeiros.github.io/crossroads.js/" target="_blank">Crossroads</a> | It parses a string input and decides which action should | ` npm i -S crossroads` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/millermedeiros/hasher/" target="_blank">Hasher</a> | Set of functions to control browser history | ` npm i -S hasher` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Communication
-Name | Description | install | Trend | Compat | Authored
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<a href="https://millermedeiros.github.io/signals.js/" target="_blank">Signals.js</a> | similar to an Event Emitter/Dispatcher or a Pub/Sub system | ` npm i -S signals` | [<img src="https://img.shields.io/npm/dm/signals.svg" align="right">](https://www.npmjs.com/package/signals) | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="https://github.com/socketio/socket.io/" target="_blank">Socket.io/server</a> | Socket.IO enables real-time bidirectional event-based communication | ` npm i -S socket.io` | [<img src="https://img.shields.io/npm/dm/socket.io.svg" align="right">](https://www.npmjs.com/package/socket.io) | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="https://github.com/socketio/socket.io/" target="_blank">Socket.io/client</a> | Socket.IO enables real-time bidirectional event-based communication | ` npm i -S socket.io-client` | [<img src="https://img.shields.io/npm/dm/socket.io.svg" align="right">](https://www.npmjs.com/package/socket.io) | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="https://github.com/soixantecircuits/spacebro" target="_blank">Spacebro</a> | Server for broadcasting socket.io service | ` npm i -S spacebro` | [<img src="https://img.shields.io/npm/dm/spacebro.svg" align="right">](https://www.npmjs.com/package/spacebro) | ![Compat](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="https://github.com/soixantecircuits/spacebro-client" target="_blank">Spacebro client</a> | Connect thru socket.io with ZeroConf | ` npm i -S spacebro-client` |   |![Compat](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+Name | Description | install | Authored
+------------- | ------------- | ------------- | ------------- |
+<a href="https://millermedeiros.github.io/signals.js/" target="_blank">Signals.js</a> | similar to an Event Emitter/Dispatcher or a Pub/Sub system | ` npm i -S signals` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/socketio/socket.io/" target="_blank">Socket.io server</a> | Socket.IO enables real-time bidirectional event-based communication | ` npm i -S socket.io` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/socketio/socket.io/" target="_blank">Socket.io client</a> | Socket.IO enables real-time bidirectional event-based communication | ` npm i -S socket.io-client` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/soixantecircuits/spacebro" target="_blank">Spacebro</a> | Server for broadcasting socket.io service | ` npm i -S spacebro` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/soixantecircuits/spacebro-client" target="_blank">Spacebro client</a> | Connect thru socket.io with ZeroConf | ` npm i -S spacebro-client` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Process manager
 
-Name | Description | install | Trend | Compat | Authored
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<a href="https://github.com/Unitech/pm2" target="_blank"> PM2 </a> | Production process manager for Node.js apps with a built-in load balancer | `npm install pm2 -g` |  | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+Name | Description | install | Authored
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/Unitech/pm2" target="_blank"> PM2 </a> | Production process manager for Node.js apps with a built-in load balancer | `npm install pm2 -g` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Request
-Name | Description | install | Trend | Compat | Authored
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<a href="https://github.com/visionmedia/superagent" target="_blank">Superagent</a> | small progressive client-side HTTP request library, and Node.js module with the same API, sporting many high-level HTTP client features | `npm i -S superagent` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+Name | Description | install | Authored
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/visionmedia/superagent" target="_blank">Superagent</a> | small progressive client-side HTTP request library, and Node.js module with the same API, sporting many high-level HTTP client features | `npm i -S superagent` | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Caching
 Name | Description | install | Trend | Compat | Authored
