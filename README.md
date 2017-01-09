@@ -1,6 +1,6 @@
 # Awesome JavaScript libraries
 
-This document list javascript libraries that I use. They are compatible with Webpack and run in the browser and / or node only. Let's build something great ! ⚒
+This document lists javascript libraries that I use. They are compatible with Webpack and run in the browser and / or node only. Let's build something great ! ⚒
 
 ## Routing
 Name | Description | install | Trend | Compat | Authored
