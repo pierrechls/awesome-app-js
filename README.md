@@ -243,15 +243,15 @@ Name | Description | Install | Compatibility |
 
 ## Data visualization
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- |  ------------- | ------------- |
-<a href="https://github.com/pcbje/ggraph" target="_blank">ggraph</a> | Graph visualization of big messy data | ` npm i -S ggraph ` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- |  ------------- |
+<a href="https://github.com/pcbje/ggraph" target="_blank">ggraph</a> | Graph visualization of big messy data. This is a library built on top D3 with the goal of improving how we work with large and messy graphs. It extends the notion of nodes and links with groups of nodes. This is useful when multiple nodes are in fact the same thing or belong to the same group. | ` npm i -S ggraph ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Tiers service
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="http://www.mandrill.com/" target="_blank">Mandrill</a> | JS wrapper for mandrill API  | ` npm i -S mandrill-api` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="http://www.mandrill.com/" target="_blank">Mandrill</a> | JS wrapper for mandrill API. Mandrill is a transactional email API for MailChimp users. It's reliable, powerful, and ideal for sending data-driven emails, including targeted e-commerce and personalized one-to-one messages.  | ` npm i -S mandrill-api` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Translations
 
