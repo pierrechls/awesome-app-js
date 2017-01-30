@@ -231,7 +231,7 @@ Name | Description | Install | Compatibility |
 Name | Description | Install | Compatibility | 
 ------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/crookedneighbor/amplitude" target="_blank">Amplitude</a> | A node wrapper for Amplitude analytics | ` npm i -S amplitude` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
-<a href="https://github.com/andjosh/gatrack.js" target="_blank">GATracks</a> | Easily track user events with Google Analytics | ` npm i -S gatrack` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/andjosh/gatrack.js" target="_blank">GATracks</a> | Easily track user events with Google Analytics. Test UI/UX theories, compare client performance/speed, even track client-side errors. All user events are tied to all other session data in Google Analytics. | ` npm i -S gatrack` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Social network
 
