@@ -259,6 +259,18 @@ Name | Description | Install  | Compatibility |
 <a href="http://i18next.com/" target="_blank">i18next</a> | internationalization ecosystem framework, i18next is a very popular internationalization library for browser or any other javascript environment (eg. node.js). | ` npm i -S i18next` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/kazupon/vue-i18n" target="_blank">vue-i18n</a> | Internationalization plugin of Vue.js  | ` npm i -S vue-i18n`| [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
+## REST API
+
+Name | Description | Install  | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/WP-API/node-wpapi" target="_blank">node-wpapi</a> | A WordPress REST API client for JavaScript. This library is an isomorphic client for the WordPress REST API, designed to work with WordPress 4.7 or later. If you are using the older WP REST API plugin, some commands will not work. | `npm install -S wpapi` | [![Coverage](https://img.shields.io/badge/coverage-node-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-orange.svg?style=flat-square)
+
+## Deployment
+
+Name | Description | Install  | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/zeit/now-cli" target="_blank">now-cli</a> | The command line interface for Now. Realtime global deployments served over HTTP/2. | `npm install -g now` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/zeit/release" target="_blank">release</a> | Generate changelogs with a single command. When run, this command line interface automatically generates a new GitHub Release and populates it with the changes (commits) made since the last release. | `npm install -g release` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Crédits
 
