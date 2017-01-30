@@ -8,24 +8,24 @@ This document lists javascript libraries that I use. They are compatible with We
 
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
-<a href="https://millermedeiros.github.io/crossroads.js/" target="_blank">Crossroads</a> | It parses a string input and decides which action should | ` npm i -S crossroads` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://millermedeiros.github.io/) |
-<a href="https://github.com/millermedeiros/hasher/" target="_blank">Hasher</a> | Set of JavaScript functions to control browser history for rich-media websites and applications. | ` npm i -S hasher` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://millermedeiros.github.io/crossroads.js/) |
+<a href="https://millermedeiros.github.io/crossroads.js/" target="_blank">Crossroads</a> | It parses a string input and decides which action should | ` npm i -S crossroads` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
+<a href="https://github.com/millermedeiros/hasher/" target="_blank">Hasher</a> | Set of JavaScript functions to control browser history for rich-media websites and applications. | ` npm i -S hasher` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
 
 ## Communication
 
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/millermedeiros/js-signals" target="_blank">js-signals</a> | similar to an Event Emitter/Dispatcher or a Pub/Sub system | ` npm i -S signals` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://github.com/millermedeiros/js-signals)  |
-<a href="https://github.com/socketio/socket.io/" target="_blank">Socket.io server</a> | Socket.IO enables real-time bidirectional event-based communication | ` npm i -S socket.io` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://github.com/socketio/socket.io/) |
-<a href="https://github.com/socketio/socket.io/" target="_blank">Socket.io client</a> | Socket.IO enables real-time bidirectional event-based communication | ` npm i -S socket.io-client` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://github.com/socketio/socket.io/) | [![Github stars](https://img.shields.io/github/stars/socketio/socket.io.svg?style=social&label=Star)](https://github.com/socketio/socket.io/)
-<a href="https://github.com/soixantecircuits/spacebro" target="_blank">Spacebro</a> | Server for broadcasting socket.io service | ` npm i -S spacebro` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://github.com/soixantecircuits/spacebro) | [![Github stars](https://img.shields.io/github/stars/soixantecircuits/spacebro.svg?style=social&label=Star)](https://github.com/soixantecircuits/spacebro)
-<a href="https://github.com/soixantecircuits/spacebro-client" target="_blank">Spacebro client</a> | Connect thru socket.io with ZeroConf | ` npm i -S spacebro-client` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://github.com/soixantecircuits/spacebro-client) | [![Github stars](https://img.shields.io/github/stars/soixantecircuits/spacebro-client.svg?style=social&label=Star)](https://github.com/soixantecircuits/spacebro-client)
+<a href="https://github.com/millermedeiros/js-signals" target="_blank">js-signals</a> | similar to an Event Emitter/Dispatcher or a Pub/Sub system | ` npm i -S signals` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)  |
+<a href="https://github.com/socketio/socket.io/" target="_blank">Socket.io server</a> | Socket.IO enables real-time bidirectional event-based communication | ` npm i -S socket.io` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
+<a href="https://github.com/socketio/socket.io/" target="_blank">Socket.io client</a> | Socket.IO enables real-time bidirectional event-based communication | ` npm i -S socket.io-client` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
+<a href="https://github.com/soixantecircuits/spacebro" target="_blank">Spacebro</a> | Server for broadcasting socket.io service | ` npm i -S spacebro` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square) |
+<a href="https://github.com/soixantecircuits/spacebro-client" target="_blank">Spacebro client</a> | Connect thru socket.io with ZeroConf | ` npm i -S spacebro-client` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square) |
 
 ## Process manager
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/Unitech/pm2" target="_blank"> PM2 </a> | Production process manager for Node.js apps with a built-in load balancer | `npm install pm2 -g` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/Unitech/pm2" target="_blank"> PM2 </a> | Production process manager for Node.js apps with a built-in load balancer | `npm install pm2 -g` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
 
 ## Request
 
