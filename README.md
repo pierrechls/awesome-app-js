@@ -104,12 +104,12 @@ Name | Description | Install | Compatibility | Social |
 <a href="https://github.com/vuejs/vue" target="_blank">Vue.js</a> | Simple, Fast &amp; Composable MVVM for building interactive interfaces | ` npm i -S vue` |
 <a href="https://github.com/facebook/react" target="_blank">React</a> | A declarative, efficient, and flexible JavaScript library for building user interfaces. | ` npm i -S react` |  |  |
 
-## DOM playing
+## Drag and drop
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/feross/drag-drop" target="_blank">drag-drop</a> | HTML5 drag & drop for humans | `npm i -S drag-drop` |
-<a href="https://github.com/bevacqua/dragula" target="_blank">Dragula</a> | Drag and drop so simple it hurts | `npm i -S dragula` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/taye/interact.js" target="_blank">interact.js</a> | JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+). | `npm i -S interactjs` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
+<a href="https://github.com/bevacqua/dragula" target="_blank">Dragula</a> | Drag and drop so simple it hurts | `npm i -S dragula` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 
 ## Helpers
 
