@@ -191,7 +191,7 @@ Name | Description | Install | Compatibility |
 
 Name | Description | Install | Compatibility | 
 ------------- | ------------- | ------------- | ------------- | 
-<a href="https://github.com/Ranks/emojione" target="_blank">emojione</a> | Emojione is the open emoji standard | `npm i -S emojione` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
+<a href="https://github.com/Ranks/emojione" target="_blank">emojione</a> | Emojione is the open emoji standard. The web's first and only complete open source emoji set. It is 100% free and super easy to integrate. | `npm i -S emojione` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 
 ## Tooling
 
