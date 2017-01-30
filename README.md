@@ -76,10 +76,10 @@ Name | Description | Install | Compatibility | Social |
 
 ## Audio playback
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/zohararad/audio5js" target="_blank">audio5</a> | Audio5js a library-agnostic, cross-browser Javascript API for HTML5 Audio, with a Flash fallback for either older browsers or modern browsers without MP3 playback support. | ` npm i -S audio5` |  |  |
-<a href="https://github.com/cotejp/webmidi" target="_blank">webmidi</a> | WebMidi.js helps you tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend, controlchange, etc.). | ` npm i -S webmidi ` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/zohararad/audio5js" target="_blank">audio5</a> | Audio5js a library-agnostic, cross-browser Javascript API for HTML5 Audio, with a Flash fallback for either older browsers or modern browsers without MP3 playback support. | ` npm i -S audio5` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/cotejp/webmidi" target="_blank">webmidi</a> | WebMidi.js helps you tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend, controlchange, etc.). | ` npm i -S webmidi ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Slider
 
