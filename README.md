@@ -255,10 +255,10 @@ Name | Description | Install | Compatibility |
 
 ## Translations
 
-Name | Description | Install  | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="http://i18next.com/" target="_blank">i18next</a> | internationalization framework  | ` npm i -S i18next` |  |  |
-<a href="https://github.com/kazupon/vue-i18n" target="_blank">vue-i18n</a> | Internationalization plugin of Vue.js  | ` npm i -S vue-i18n`|  |  |
+Name | Description | Install  | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="http://i18next.com/" target="_blank">i18next</a> | internationalization ecosystem framework, i18next is a very popular internationalization library for browser or any other javascript environment (eg. node.js). | ` npm i -S i18next` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/kazupon/vue-i18n" target="_blank">vue-i18n</a> | Internationalization plugin of Vue.js  | ` npm i -S vue-i18n`| [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 
 ## Crédits
