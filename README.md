@@ -41,28 +41,22 @@ Name | Description | Install | Compatibility |
 
 ## Persistent data
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://developer.mozilla.org/en/docs/Web/API/Window/localStorage" target="_blank">Native LocalStorage</a> | The localStorage property allows you to access a local Storage object.  | `Window.localStorage` |  |  |
-<a href="https://github.com/brianleroux/lawnchair" target="_blank">Lawnchair</a> | Simple json storage | ` npm i -S lawnchair` |  |  |
-<a href="https://github.com/Ivshti/linvodb3" target="_blank">Linvodb3</a> | Model-oriented embedded database, inspired by Mongoose &amp; MongoDB, over LevelUP | ` npm i -S linvodb3` |  |  |
-<a href="https://github.com/bkeepers/dotenv" target="_blank">dotenv</a> | Loads environment variables from `.env`. | `npm i -S dotenv` |  |  |
-<a href="https://github.com/vuejs/vuefire" target="_blank">vuefire</a> | Firebase bindings for Vue.js | `npm i vue firebase vuefire -S` |  |  |
-
-## State machine
-
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- |  ------------- | ------------- | ------------- |
-<a href="http://machina-js.org/" target="_blank">Machina</a> | A library for creating powerful and flexible finite state machines | ` npm i -S machina` |  |  |
+Name | Description | Install | Compatibility | 
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://developer.mozilla.org/en/docs/Web/API/Window/localStorage" target="_blank">Native LocalStorage</a> | The localStorage property allows you to access a local Storage object.  | `Window.localStorage` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square) |
+<a href="https://github.com/brianleroux/lawnchair" target="_blank">Lawnchair</a> | Simple json storage | ` npm i -S lawnchair` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
+<a href="https://github.com/Ivshti/linvodb3" target="_blank">Linvodb3</a> | Model-oriented embedded database, inspired by Mongoose &amp; MongoDB, over LevelUP | ` npm i -S linvodb3` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
+<a href="https://github.com/bkeepers/dotenv" target="_blank">dotenv</a> | Loads environment variables from `.env`. | `npm i -S dotenv` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/vuejs/vuefire" target="_blank">vuefire</a> | Firebase bindings for Vue.js | `npm i vue firebase vuefire -S` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/vuejs/vuex/" target="_blank"> vuex </a> | Firebase bindings for Vue.js | `npm i vuex -S` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Animation
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/greensock/GreenSock-JS" target="_blank">GSAP</a> | Think of GSAP as the Swiss Army Knife of web animation...but better | `npm i -S gsap` |  |  |
-<a href="https://github.com/tweenjs/tween.js/" target="_blank">Tween</a> | Super simple, fast and easy to use tweening engine | ` npm i -S tween.js` |  |  |
-<a href="https://github.com/sarcadass/granim.js" target="_blank">granim.js</a> | Create fluid and interactive gradients animations | `npm install -S granim` |  |  |
-
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/greensock/GreenSock-JS" target="_blank">GSAP</a> | Think of GSAP as the Swiss Army Knife of web animation...but better | `npm i -S gsap` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/tweenjs/tween.js/" target="_blank">Tween</a> | Super simple, fast and easy to use tweening engine | ` npm i -S tween.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/sarcadass/granim.js" target="_blank">granim.js</a> | Create fluid and interactive gradients animations | `npm install -S granim` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Image manipulation
 
