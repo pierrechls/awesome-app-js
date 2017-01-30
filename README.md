@@ -183,35 +183,35 @@ Name | Description | Install | Compatibility |
 
 ## System
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/jprichardson/node-fs-extra" target="_blank">fs-extra</a> | Node.js extra methods for the fs object like copy(), remove(), mkdirs() | `npm i -S fs-extra` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/jprichardson/node-fs-extra" target="_blank">fs-extra</a> | Node.js extra methods for the fs object like copy(), remove(), mkdirs() | `npm i -S fs-extra` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 
 ## Emoji
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/Ranks/emojione" target="_blank">emojione</a> | Emojione is the open emoji standard | `npm i -S emojione` |  |  |
+Name | Description | Install | Compatibility | 
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/Ranks/emojione" target="_blank">emojione</a> | Emojione is the open emoji standard | `npm i -S emojione` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 
 ## Tooling
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/lodash/lodash" target="_blank">lodash</a> | Rotates the elements of an array in place. | `npm i -S lodash` |  |  |
-<a href="https://github.com/CMTegner/rotate-array" target="_blank">rotate-array</a> | utility library delivering modularity, performance, & extras to play with Arrays, Collection and more | `npm i -S rotate-array` |  |  |
-<a href="https://github.com/soixantecircuits/Idle.js" target="_blank">Idle.js</a> | Script to create handlers for onIdle onActive onHidden onShow statuses, compatible with `<script>` tag and webpack | `npm i -S idle-js` |  |  |
-<a href="http://www.stringjs.com/" target="_blank">StringJS</a> | JavaScript library for the browser or for Node.js that provides extra String methods | ` npm i -S string` |  |  |
-<a href="https://github.com/hubspot/offline" target="_blank">Offline</a> | Automatically display online/offline indication to your users |  |  |  |
-<a href="https://noraesae.github.io/perfect-scrollbar/" target="_blank">PerfectScroll</a> | minimalistic scrollbar plugin working with jQuery or vanilla JavaScript as well. | ` npm i -S perfect-scrollbar` |  |  |
-<a href="https://github.com/moment/moment" target="_blank">Moment</a> | Parse, validate, manipulate, and display dates in javascript | ` npm i -S moment` |  |  |
-<a href="https://github.com/szimek/signature_pad" target="_blank">Signature_pad</a> | HTML5 canvas based smooth signature drawing | ` npm i -S signature_pad` |  |  |
-<a href="https://code.google.com/archive/p/dat-gui/" target="_blank">Dat-Gui</a> | A lightweight graphical user interface for changing variables in JavaScript | ` npm i -S dat-gui` |
-<a href="http://wicky.nillia.ms/enquire.js" target="_blank">Enquire</a> | a lightweight, pure JavaScript library for responding to CSS media queries | ` npm i -S enquire.js` |  |  |
-<a href="https://modernizr.com/docs" target="_blank">Modernizr</a> | Automatically detects the availability of next-generation web technologies in your user's browsers | ` npm i -S -g modernizr` | 
-<a href="http://verge.airve.com/" target="_blank">Verge</a> | Compact set of cross-browser viewport utilities written in native JavaScript | ` npm i -S verge` |  |  |
-<a href="http://sizzlejs.com/" target="_blank">Sizzle</a> | A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library |  ` npm i -S sizzle` |  |  |
-<a href="https://github.com/Sopamo/vue-online" target="_blank">vue-online</a> | A reactive online/offline component for vue.js |  ` npm i --save-dev vue-online` |  |  |
-<a href="https://github.com/sindresorhus/opn" target="_blank">opn</a> | A better node-open. Opens stuff like websites, files, executables. Cross-platform. |  ` npm i --S opn` |  |  |
+Name | Description | Install | Compatibility | 
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/lodash/lodash" target="_blank">lodash</a> | Rotates the elements of an array in place. | `npm i -S lodash` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/CMTegner/rotate-array" target="_blank">rotate-array</a> | utility library delivering modularity, performance, & extras to play with Arrays, Collection and more | `npm i -S rotate-array` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/soixantecircuits/Idle.js" target="_blank">Idle.js</a> | Script to create handlers for onIdle onActive onHidden onShow statuses, compatible with `<script>` tag and webpack | `npm i -S idle-js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="http://www.stringjs.com/" target="_blank">StringJS</a> | JavaScript library for the browser or for Node.js that provides extra String methods | ` npm i -S string` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/hubspot/offline" target="_blank">Offline</a> | Automatically display online/offline indication to your users |  | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
+<a href="https://noraesae.github.io/perfect-scrollbar/" target="_blank">PerfectScroll</a> | minimalistic scrollbar plugin working with jQuery or vanilla JavaScript as well. | ` npm i -S perfect-scrollbar` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/moment/moment" target="_blank">Moment</a> | Parse, validate, manipulate, and display dates in javascript | ` npm i -S moment` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/szimek/signature_pad" target="_blank">Signature_pad</a> | HTML5 canvas based smooth signature drawing | ` npm i -S signature_pad` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://code.google.com/archive/p/dat-gui/" target="_blank">Dat-Gui</a> | A lightweight graphical user interface for changing variables in JavaScript | ` npm i -S dat-gui` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="http://wicky.nillia.ms/enquire.js" target="_blank">Enquire</a> | a lightweight, pure JavaScript library for responding to CSS media queries | ` npm i -S enquire.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://modernizr.com/docs" target="_blank">Modernizr</a> | Automatically detects the availability of next-generation web technologies in your user's browsers | ` npm i -S -g modernizr` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="http://verge.airve.com/" target="_blank">Verge</a> | Compact set of cross-browser viewport utilities written in native JavaScript | ` npm i -S verge` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="http://sizzlejs.com/" target="_blank">Sizzle</a> | A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library |  ` npm i -S sizzle` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/Sopamo/vue-online" target="_blank">vue-online</a> | A reactive online/offline component for vue.js |  ` npm i --save-dev vue-online` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/sindresorhus/opn" target="_blank">opn</a> | A better node-open. Opens stuff like websites, files, executables. Cross-platform. |  ` npm i --S opn` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Pdf
 
