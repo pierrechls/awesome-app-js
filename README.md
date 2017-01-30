@@ -127,19 +127,19 @@ Name | Description | Install | Compatibility |
 
 Name | Description | Install | Compatibility | 
 ------------- | ------------- | ------------- | ------------- | 
-<a href="https://github.com/mrdoob/three.js/" target="_blank">Three</a> | JavaScript 3D library | ` npm i -S three` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/mrdoob/three.js/" target="_blank">Three</a> | JavaScript 3D library | ` npm i -S three` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 <a href="https://github.com/pixijs/pixi.js" target="_blank">Pixi</a> | Pixi.js is a fast lightweight 2D library that works across all devices | ` npm i -S pixi.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Virtual reality
 
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/aframevr/aframe" target="_blank">A-Frame</a> | A web framework for building virtual reality experiences. | `npm i -S aframe` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/aframevr/aframe" target="_blank">A-Frame</a> | A web framework for building virtual reality experiences. A-Frame handles the 3D and WebVR boilerplate required to get running across platforms including mobile, desktop, Vive, and Rift. | `npm i -S aframe` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Effects
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/brianchirls/Seriously.js" target="_blank">Seriously</a> |  A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL |  | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/flozz/StackBlur" target="_blank">StackBlur</a> | Fast and almost Gaussian blur | ` npm i -S stackblur-canvas` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
@@ -149,37 +149,37 @@ Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- | 
 <a href="https://github.com/niklasvh/html2canvas" target="_blank">Html2canvas</a> | The script allows you to take "screenshots" of webpages or parts of it, directly on the users browser | ` npm i -S html2canvas` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/sole/Animated_GIF" target="_blank">Animated_gif</a> | Javascript library for creating animated GIFs | ` npm i -S animated_gif` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
-<a href="https://github.com/spite/ccapture.js/" target="_blank">CCapture</a> | A library to capture canvas-based animations at a fixed framerate | `npm i -S ccapture.js` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/spite/ccapture.js/" target="_blank">CCapture</a> | A library to capture canvas-based animations at a fixed framerate | `npm i -S ccapture.js` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 <a href="https://github.com/collab-project/videojs-record" target="_blank">Videojs-record</a> | video.js plugin for recording audio/video/image files | ` npm i -S videojs-record` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="http://jnordberg.github.io/gif.js/" target="_blank">Gif.js</a> | JavaScript GIF encoder that runs in your browser | ` npm i -S gif.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Inputs
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/hammerjs/hammer.js" target="_blank">Hammer</a> | A javascript library for multi-touch gestures. You can touch this ! | ` npm i -S hammerjs` |  |  |
-<a href="https://github.com/soixantecircuits/piano" target="_blank">Piano</a> | Virtual keyboard for touch devices | `npm i -S piano.js` |  |  |
-<a href="https://github.com/joeferner/node-serialport2" target="_blank">SerialPort2</a> | node.js serial port driver | ` npm i -S serialport2` |  |  |
-<a href="https://github.com/nonolith/node-usb" target="_blank">USB</a> | Improved USB library for NodeJS | ` npm i -S usb` |  |  | 
-<a href="https://github.com/Benvie/Keyboard" target="_blank">Keyboard</a> | Keyboard as an object in the DOM | ` npm i -S keyboard` |  |  |
-<a href="https://namuol.github.io/cheet.js/" target="_blank">Cheet</a> | Easy easter eggs (konami code, etc) for your site | `npm i -S cheet.js` |  |  |
-<a href="https://craig.is/killing/mice" target="_blank">Mousetrap</a> | Simple library for handling keyboard shortcuts | `npm i -S mousetrap` |  |  |
-<a href="http://monospaced.github.io/hamster.js/" target="_blank">Hamsterjs</a> | Standalone javascript library for cross-browser mouse wheel support | ` npm i -S hamsterjs` |  |  |
-<a href="https://github.com/monterail/vue-multiselect" target="_blank">vue-multiselect</a> | Probably the most complete selecting solution for Vue.js, without jQuery. | ` npm i -S vue-multiselect` |  |  |
-<a href="https://github.com/KaneCohen/tokenfield" target="_blank"> tokenfield </a> | Input field with tagging/token/chip capabilities written in raw JavaScript. | ` npm i -S tokenfield` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/hammerjs/hammer.js" target="_blank">Hammer</a> | A javascript library for multi-touch gestures. You can touch this ! | ` npm i -S hammerjs` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/soixantecircuits/piano" target="_blank">Piano</a> | Virtual keyboard for touch devices | `npm i -S piano.js` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
+<a href="https://github.com/joeferner/node-serialport2" target="_blank">SerialPort2</a> | node.js serial port driver | ` npm i -S serialport2` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/nonolith/node-usb" target="_blank">USB</a> | Improved USB library for NodeJS | ` npm i -S usb` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/Benvie/Keyboard" target="_blank">Keyboard</a> | Keyboard as an object in the DOM | ` npm i -S keyboard` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://namuol.github.io/cheet.js/" target="_blank">Cheet</a> | Easy easter eggs (konami code, etc) for your site | `npm i -S cheet.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://craig.is/killing/mice" target="_blank">Mousetrap</a> | Simple library for handling keyboard shortcuts | `npm i -S mousetrap` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="http://monospaced.github.io/hamster.js/" target="_blank">Hamsterjs</a> | Standalone javascript library for cross-browser mouse wheel support | ` npm i -S hamsterjs` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/monterail/vue-multiselect" target="_blank">vue-multiselect</a> | Probably the most complete selecting solution for Vue.js, without jQuery. | ` npm i -S vue-multiselect` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/KaneCohen/tokenfield" target="_blank"> tokenfield </a> | Input field with tagging/token/chip capabilities written in raw JavaScript. | ` npm i -S tokenfield` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Camera
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/jhuckaby/webcamjs" target="_blank">WebcamJS</a> | HTML5 Webcam Image Capture Library with Flash Fallback | ` npm i -S webcamjs` |  |  |
+Name | Description | Install | Compatibility | 
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/jhuckaby/webcamjs" target="_blank">WebcamJS</a> | HTML5 Webcam Image Capture Library with Flash Fallback | `npm i -S webcamjs` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Signal processing
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/auduno/clmtrackr" target="_blank">Clmtrackr</a> | Javascript library for precise tracking of facial features via Constrained Local Models | `import 'clmtrackr.js'` |  |  |
-<a href="https://github.com/inspirit/jsfeat" target="_blank">Jsfeat</a> | JavaScript Computer Vision library | `npm i -S clmtrackr.js` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/auduno/clmtrackr" target="_blank">Clmtrackr</a> | Javascript library for precise tracking of facial features via Constrained Local Models | `import 'clmtrackr.js'` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
+<a href="https://github.com/inspirit/jsfeat" target="_blank">Jsfeat</a> | JavaScript Computer Vision library | `npm i -S clmtrackr.js` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 
 ## System
 
