@@ -113,22 +113,22 @@ Name | Description | Install | Compatibility |
 
 ## Helpers
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/vuejs/vue-migration-helper" target="_blank">vue-migration-helper</a> | CLI tool to aid in migration from Vue 1.x to 2.0. | `npm i -g vue-migration-helper` |  |  |
+Name | Description | Install | Compatibility | 
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/vuejs/vue-migration-helper" target="_blank">vue-migration-helper</a> | CLI tool to aid in migration from Vue 1.x to 2.0. | `npm i -g vue-migration-helper` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Mailing
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/nodemailer/nodemailer" target="_blank"> nodemailer </a> | Send e-mails from Node.js easy as cake!  | `npm i -S nodemailer` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/nodemailer/nodemailer" target="_blank"> nodemailer </a> | Send e-mails from Node.js easy as cake!  | `npm i -S nodemailer` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Rendering
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/mrdoob/three.js/" target="_blank">Three</a> | JavaScript 3D library | ` npm i -S three` |  |  |
-<a href="https://github.com/pixijs/pixi.js" target="_blank">Pixi</a> | Pixi.js is a fast lightweight 2D library that works across all devices | ` npm i -S pixi.js` |  |  |
+Name | Description | Install | Compatibility | 
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/mrdoob/three.js/" target="_blank">Three</a> | JavaScript 3D library | ` npm i -S three` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/pixijs/pixi.js" target="_blank">Pixi</a> | Pixi.js is a fast lightweight 2D library that works across all devices | ` npm i -S pixi.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Virtual reality
 
