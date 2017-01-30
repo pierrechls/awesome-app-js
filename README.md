@@ -9,7 +9,7 @@ This document lists javascript libraries that I use. They are compatible with We
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
 <a href="https://millermedeiros.github.io/crossroads.js/" target="_blank">Crossroads</a> | It parses a string input and decides which action should | ` npm i -S crossroads` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://millermedeiros.github.io/) |
-<a href="https://github.com/millermedeiros/hasher/" target="_blank">Hasher</a> | Set of functions to control browser history | ` npm i -S hasher` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://millermedeiros.github.io/crossroads.js/) |
+<a href="https://github.com/millermedeiros/hasher/" target="_blank">Hasher</a> | Set of JavaScript functions to control browser history for rich-media websites and applications. | ` npm i -S hasher` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://millermedeiros.github.io/crossroads.js/) |
 
 ## Communication
 
