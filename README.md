@@ -121,7 +121,7 @@ Name | Description | Install | Compatibility |
 
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- | 
-<a href="https://github.com/nodemailer/nodemailer" target="_blank"> nodemailer </a> | Send e-mails from Node.js easy as cake!  | `npm i -S nodemailer` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/nodemailer/nodemailer" target="_blank"> nodemailer </a> | Send e-mails from Node.js easy as cake! The community version of Nodemailer is a module for Node.js applications to allow email sending. The project got started back in 2010 when there was no sane option to send email messages, today it is the solution most Node.js users turn to by default. | `npm i -S nodemailer` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Rendering
 
