@@ -99,10 +99,10 @@ Name | Description | Install | Compatibility |
 
 ## Template engine
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/vuejs/vue" target="_blank">Vue.js</a> | Simple, Fast &amp; Composable MVVM for building interactive interfaces | ` npm i -S vue` |
-<a href="https://github.com/facebook/react" target="_blank">React</a> | A declarative, efficient, and flexible JavaScript library for building user interfaces. | ` npm i -S react` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/vuejs/vue" target="_blank">Vue.js</a> | Simple, Fast &amp; Composable MVVM for building interactive interfaces | ` npm i -S vue` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/facebook/react" target="_blank">React</a> | A declarative, efficient, and flexible JavaScript library for building user interfaces. | ` npm i -S react` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Drag and drop
 
