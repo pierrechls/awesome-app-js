@@ -132,17 +132,16 @@ Name | Description | Install | Compatibility |
 
 ## Virtual reality
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/aframevr/aframe" target="_blank">A-Frame</a> | A web framework for building virtual reality experiences. | `npm i -S aframe` |  |  |
-
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/aframevr/aframe" target="_blank">A-Frame</a> | A web framework for building virtual reality experiences. | `npm i -S aframe` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Effects
 
 Name | Description | Install | Compatibility | Social |
 ------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/brianchirls/Seriously.js" target="_blank">Seriously</a> |  A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL |  |  |  |
-<a href="https://github.com/flozz/StackBlur" target="_blank">StackBlur</a> | Fast and almost Gaussian blur | ` npm i -S stackblur-canvas` |  |  |
+<a href="https://github.com/brianchirls/Seriously.js" target="_blank">Seriously</a> |  A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL |  | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/flozz/StackBlur" target="_blank">StackBlur</a> | Fast and almost Gaussian blur | ` npm i -S stackblur-canvas` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Recording
 
