@@ -29,15 +29,15 @@ Name | Description | Install | Compatibility |
 
 ## Request
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/visionmedia/superagent" target="_blank">Superagent</a> | small progressive client-side HTTP request library, and Node.js module with the same API, sporting many high-level HTTP client features | `npm i -S superagent` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/visionmedia/superagent" target="_blank">Superagent</a> | small progressive client-side HTTP request library, and Node.js module with the same API, sporting many high-level HTTP client features | `npm i -S superagent` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
 
 ## Caching
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/jpodwys/superagent-cache" target="_blank">Superagent-cache</a> | Superagent with built-in, customizable caching |  `npm i -S superagent-cache` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/jpodwys/superagent-cache" target="_blank">Superagent-cache</a> | Superagent with built-in, customizable caching |  `npm i -S superagent-cache` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
 
 ## Persistent data
 
