@@ -92,11 +92,10 @@ Name | Description | Install | Compatibility |
 
 ## Sprite animation
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/darsain/motio" target="_blank">Motio</a> | Small JavaScript library for sprite based animations and panning | `import 'motio.js'` |  |  |
-<a href="https://github.com/krzysztof-o/spritesheet.js/" target="_blank">spritesheet.js</a> | Command-line spritesheet generator supporting Starling / Sparrow, PIXI.js, Easel.js and cocos2d | `spritesheet-js assets/*.png` |  |  |
-<a href="https://github.com/manuelodelain/sprite-anim" target="_blank">sprite-anim</a> | Simple spritesheet animation engine. | `npm i -S sprite-anim` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/krzysztof-o/spritesheet.js/" target="_blank">spritesheet.js</a> | Command-line spritesheet generator supporting Starling / Sparrow, PIXI.js, Easel.js and cocos2d | `spritesheet-js assets/*.png` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/manuelodelain/sprite-anim" target="_blank">sprite-anim</a> | Simple spritesheet animation engine. | `npm i -S sprite-anim` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Template engine
 
