@@ -213,25 +213,25 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/Sopamo/vue-online" target="_blank">vue-online</a> | A reactive online/offline component for vue.js |  ` npm i --save-dev vue-online` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/sindresorhus/opn" target="_blank">opn</a> | A better node-open. Opens stuff like websites, files, executables. Cross-platform. |  ` npm i --S opn` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
-## Pdf
+## PDF
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/bpampuch/pdfmake" target="_blank">Pdfmake</a> | A lightweight graphical user interface for changing variables in JavaScript | ` npm i -S pdfmake` |  |  |
+Name | Description | Install | Compatibility | 
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/bpampuch/pdfmake" target="_blank">Pdfmake</a> | A lightweight graphical user interface for changing variables in JavaScript | ` npm i -S pdfmake` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Perf
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/lmacsen/rstats" target="_blank">Rstats.js</a> | rStats aims to provide a way of measuring and visualizing performance of your code, mainly in apps based on an update loop, like games or interactive experiences. | ` npm i -S rstats.js` |  |  |
-<a href="https://github.com/mrdoob/stats.js" target="_blank">Stats.js</a> | JavaScript Performance Monitor | ` npm i -S stats.js` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/lmacsen/rstats" target="_blank">Rstats.js</a> | rStats aims to provide a way of measuring and visualizing performance of your code, mainly in apps based on an update loop, like games or interactive experiences. | ` npm i -S rstats.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/mrdoob/stats.js" target="_blank">Stats.js</a> | JavaScript Performance Monitor | ` npm i -S stats.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Tracking
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/crookedneighbor/amplitude" target="_blank">Amplitude</a> | A node wrapper for Amplitude analytics | ` npm i -S amplitude` |  |  |
-<a href="https://github.com/andjosh/gatrack.js" target="_blank">GATracks</a> | Easily track user events with Google Analytics | ` npm i -S gatrack` |  |  |
+Name | Description | Install | Compatibility | 
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/crookedneighbor/amplitude" target="_blank">Amplitude</a> | A node wrapper for Amplitude analytics | ` npm i -S amplitude` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
+<a href="https://github.com/andjosh/gatrack.js" target="_blank">GATracks</a> | Easily track user events with Google Analytics | ` npm i -S gatrack` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Social network
 
