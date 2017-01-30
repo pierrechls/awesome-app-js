@@ -83,11 +83,12 @@ Name | Description | Install | Compatibility | Social |
 
 ## Slider
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://www.npmjs.com/package/lory.js" target="_blank">Lory</a> | Touch enabled minimalistic slider written in vanilla JavaScript | ` npm i -S lory.js` |  |  |
-<a href="https://github.com/dimsemenov/PhotoSwipe" target="_blank">PhotoSwipe</a> | JavaScript image gallery for mobile and desktop, modular, framework independent | ` npm i -S photoswipe` |  |  |
-<a href="https://github.com/nolimits4web/swiper/" target="_blank">Swiper</a> | Most modern mobile touch slider with hardware accelerated transitions | ` npm i -S swiper` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/meandmax/lory" target="_blank">Lory</a> | Touch enabled minimalistic slider written in vanilla JavaScript | ` npm i -S lory.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/dimsemenov/PhotoSwipe" target="_blank">PhotoSwipe</a> | JavaScript image gallery for mobile and desktop, modular, framework independent | ` npm i -S photoswipe` |  [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/nolimits4web/swiper/" target="_blank">Swiper</a> | Most modern mobile touch slider with hardware accelerated transitions | ` npm i -S swiper` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/pawelgrzybek/siema" target="_blank"> Siema </a> | Lightweight and simple carousel with no dependencies | `npm i -S siema` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Sprite animation
 
