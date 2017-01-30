@@ -145,13 +145,13 @@ Name | Description | Install | Compatibility | Social |
 
 ## Recording
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/niklasvh/html2canvas" target="_blank">Html2canvas</a> | The script allows you to take "screenshots" of webpages or parts of it, directly on the users browser | ` npm i -S html2canvas` |  |  |
-<a href="https://github.com/sole/Animated_GIF" target="_blank">Animated_gif</a> | Javascript library for creating animated GIFs | ` npm i -S animated_gif` |  |  |
-<a href="https://github.com/spite/ccapture.js/" target="_blank">CCapture</a> | A library to capture canvas-based animations at a fixed framerate | `npm i -S ccapture.js` |  |  |
-<a href="https://github.com/collab-project/videojs-record" target="_blank">Videojs-record</a> | video.js plugin for recording audio/video/image files | ` npm i -S videojs-record` |  |  |
-<a href="http://jnordberg.github.io/gif.js/" target="_blank">Gif.js</a> | JavaScript GIF encoder that runs in your browser | ` npm i -S gif.js` |  |  |
+Name | Description | Install | Compatibility | 
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/niklasvh/html2canvas" target="_blank">Html2canvas</a> | The script allows you to take "screenshots" of webpages or parts of it, directly on the users browser | ` npm i -S html2canvas` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/sole/Animated_GIF" target="_blank">Animated_gif</a> | Javascript library for creating animated GIFs | ` npm i -S animated_gif` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/spite/ccapture.js/" target="_blank">CCapture</a> | A library to capture canvas-based animations at a fixed framerate | `npm i -S ccapture.js` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/collab-project/videojs-record" target="_blank">Videojs-record</a> | video.js plugin for recording audio/video/image files | ` npm i -S videojs-record` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="http://jnordberg.github.io/gif.js/" target="_blank">Gif.js</a> | JavaScript GIF encoder that runs in your browser | ` npm i -S gif.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Inputs
 
