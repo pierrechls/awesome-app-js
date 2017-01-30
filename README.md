@@ -70,9 +70,9 @@ Name | Description | Install | Compatibility | Social |
 
 ## Video playback
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/videojs/video.js" target="_blank">VideoJS</a> | An HTML5 and Flash video player with a common API and skin for both | ` npm i -S videojs` |  |  |
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/videojs/video.js" target="_blank">VideoJS</a> | An HTML5 and Flash video player with a common API and skin for both | ` npm i -S videojs` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Audio playback
 
