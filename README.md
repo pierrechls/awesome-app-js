@@ -60,13 +60,13 @@ Name | Description | Install | Compatibility |
 
 ## Image manipulation
 
-Name | Description | Install | Compatibility | Social |
-------------- | ------------- | ------------- | ------------- | ------------- |
-<a href="http://github.com/exine/fabric-browserify" target="_blank">Fabric.js</a> | Play with the canvas | `npm i -S fabric-browserify` |  |  |
-<a href="https://github.com/leeoniya/RgbQuant.js/" target="_blank">RgbQuant</a> | Color quantization lib | ` npm i -S rgbquant` |  |  |
-<a href="https://github.com/blueimp/JavaScript-Load-Image" target="_blank">Javascript-Load-Image</a> | JavaScript Load Image is a library to load images provided as File or Blob objects or via URL |  `npm i -S blueimp-load-image` |  |  |
-<a href="https://github.com/imulus/retinajs" target="_blank">RetinaJS</a> | Open source script that serves high-resolution images to devices with retina displays | ` npm i -S retina.js` |  |  |
-<a href="https://github.com/mattnedrich/palette-maker" target="_blank">palette-maker</a> | Palette Maker is an interactive web tool that allows you to explore different approaches to extract color palettes from images | ` npm i -S palette-maker` |  |  |
+Name | Description | Install | Compatibility | 
+------------- | ------------- | ------------- | ------------- | 
+<a href="http://github.com/exine/fabric-browserify" target="_blank">Fabric.js</a> | Play with the canvas. Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser | `npm i -S fabric` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/leeoniya/RgbQuant.js/" target="_blank">RgbQuant</a> | Color quantization lib | ` npm i -S rgbquant` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/blueimp/JavaScript-Load-Image" target="_blank">Javascript-Load-Image</a> | JavaScript Load Image is a library to load images provided as File or Blob objects or via URL |  `npm i -S blueimp-load-image` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/imulus/retinajs" target="_blank">RetinaJS</a> | Open source script that serves high-resolution images to devices with retina displays | ` npm i -S retina.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/mattnedrich/palette-maker" target="_blank">palette-maker</a> | Palette Maker is an interactive web tool that allows you to explore different approaches to extract color palettes from images | ` npm i -S palette-maker` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Video playback
 
