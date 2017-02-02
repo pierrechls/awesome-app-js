@@ -77,6 +77,7 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/greensock/GreenSock-JS" target="_blank">GSAP</a> | Think of GSAP as the Swiss Army Knife of web animation...but better | `npm i -S gsap` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/tweenjs/tween.js/" target="_blank">Tween</a> | Super simple, fast and easy to use tweening engine | ` npm i -S tween.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/sarcadass/granim.js" target="_blank">granim.js</a> | Create fluid and interactive gradients animations | `npm install -S granim` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="http://airbnb.design/lottie/" target="_blank"> Lottie </a> | Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time, allowing apps to use animations as easily as they use static images. | Install [BodyMovin](https://github.com/bodymovin/bodymovin) | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Image manipulation
 
