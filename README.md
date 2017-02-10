@@ -63,6 +63,7 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/bkeepers/dotenv" target="_blank">dotenv</a> | Loads environment variables from `.env`. | `npm i -S dotenv` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/vuejs/vuefire" target="_blank">vuefire</a> | Firebase bindings for Vue.js | `npm i vue firebase vuefire -S` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/vuejs/vuex/" target="_blank"> vuex </a> | Firebase bindings for Vue.js | `npm i vuex -S` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/graphql/express-graphql" target="_blank"> express-graphql</a> | Create a GraphQL HTTP server with Express | `npm i -S express-graphql` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## REST API
 
