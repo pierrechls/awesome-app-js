@@ -273,6 +273,7 @@ Name | Description | Install | Compatibility |
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
 <a href="http://www.mandrill.com/" target="_blank">Mandrill</a> | JS wrapper for mandrill API. Mandrill is a transactional email API for MailChimp users. It's reliable, powerful, and ideal for sending data-driven emails, including targeted e-commerce and personalized one-to-one messages.  | ` npm i -S mandrill-api` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/flipxfx/download-git-repo" target="_blank">download-git-repo</a> | Download and extract a git repository (GitHub, GitLab, Bitbucket) from node. | ` npm i -S download-git-repo` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Translations
 
