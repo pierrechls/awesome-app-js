@@ -14,9 +14,16 @@ Name | Description | Install | Compatibility |
 
 Name | Description | Install  | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/zeit/now-cli" target="_blank">now-cli</a> | The command line interface for Now. Realtime global deployments served over HTTP/2. | `npm install -g now` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
-<a href="https://github.com/zeit/release" target="_blank">release</a> | Generate changelogs with a single command. When run, this command line interface automatically generates a new GitHub Release and populates it with the changes (commits) made since the last release. | `npm install -g release` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
-<a href="https://github.com/strapi/strapi" target="_blank">strapi</a> | Strapi is an open source solution to create, deploy and manage your own API. It provides a powerful dashboard and features to make your life easier. | `npm install strapi -g` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
+<a href="https://github.com/zeit/now-cli" target="_blank">now-cli</a> | The command line interface for Now. Realtime global deployments served over HTTP/2. | `npm i -g now` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
+<a href="https://github.com/zeit/release" target="_blank">release</a> | Generate changelogs with a single command. When run, this command line interface automatically generates a new GitHub Release and populates it with the changes (commits) made since the last release. | `npm i -g release` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
+<a href="https://github.com/strapi/strapi" target="_blank">strapi</a> | Strapi is an open source solution to create, deploy and manage your own API. It provides a powerful dashboard and features to make your life easier. | `npm i strapi -g` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
+
+## App generator
+
+Name | Description | Install  | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/yeoman/yo" target="_blank"> yo </a> | CLI tool for running Yeoman generators | `npm i -g yo ` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
+<a href="https://github.com/yeoman/update-notifier" target="_blank"> update-notifier </a> | Update notifications for your CLI app | `npm i -S update-notifier ` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 
 ## Routing
 
@@ -39,7 +46,7 @@ Name | Description | Install | Compatibility |
 
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- | 
-<a href="https://github.com/Unitech/pm2" target="_blank"> PM2 </a> | Production process manager for Node.js apps with a built-in load balancer | `npm install pm2 -g` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
+<a href="https://github.com/Unitech/pm2" target="_blank"> PM2 </a> | Production process manager for Node.js apps with a built-in load balancer | `npm i pm2 -g` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
 
 ## Request
 
@@ -69,7 +76,7 @@ Name | Description | Install | Compatibility |
 
 Name | Description | Install  | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/WP-API/node-wpapi" target="_blank">node-wpapi</a> | A WordPress REST API client for JavaScript. This library is an isomorphic client for the WordPress REST API, designed to work with WordPress 4.7 or later. If you are using the older WP REST API plugin, some commands will not work. | `npm install -S wpapi` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yello.svg?style=flat-square)
+<a href="https://github.com/WP-API/node-wpapi" target="_blank">node-wpapi</a> | A WordPress REST API client for JavaScript. This library is an isomorphic client for the WordPress REST API, designed to work with WordPress 4.7 or later. If you are using the older WP REST API plugin, some commands will not work. | `npm i -S wpapi` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yello.svg?style=flat-square)
 
 ## Animation
 
@@ -77,7 +84,7 @@ Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- | 
 <a href="https://github.com/greensock/GreenSock-JS" target="_blank">GSAP</a> | Think of GSAP as the Swiss Army Knife of web animation...but better | `npm i -S gsap` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/tweenjs/tween.js/" target="_blank">Tween</a> | Super simple, fast and easy to use tweening engine | ` npm i -S tween.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
-<a href="https://github.com/sarcadass/granim.js" target="_blank">granim.js</a> | Create fluid and interactive gradients animations | `npm install -S granim` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/sarcadass/granim.js" target="_blank">granim.js</a> | Create fluid and interactive gradients animations | `npm i -S granim` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="http://airbnb.design/lottie/" target="_blank"> Lottie </a> | Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time, allowing apps to use animations as easily as they use static images. | Install [BodyMovin](https://github.com/bodymovin/bodymovin) | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Image manipulation
