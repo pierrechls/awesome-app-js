@@ -159,6 +159,7 @@ Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/brianchirls/Seriously.js" target="_blank">Seriously</a> |  A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL |  | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/flozz/StackBlur" target="_blank">StackBlur</a> | Fast and almost Gaussian blur | ` npm i -S stackblur-canvas` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/tameemsafi/typewriterjs" target="_blank">typewriterjs</a> | A simple yet powerful native javascript plugin for a cool typewriter effect | ` npm i -S typewriterjs` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Recording
 
