@@ -22,6 +22,7 @@ Name | Description | Install  | Compatibility |
 
 Name | Description | Install  | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/electron-userland/electron-packager" target="_blank">electron-packager </a> | Customize and package your Electron app with OS-specific bundles (.app, .exe etc) via JS or CLI | `npm i -S electron-packager ` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 <a href="https://github.com/vuejs/vue-cli" target="_blank"> vue-cli </a> | Simple CLI for scaffolding Vue.js projects | `npm i -g vue-cli ` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 <a href="https://github.com/kriasoft/react-app" target="_blank"> react-app </a> | CLI tools and templates for authoring React applications with a single dev dependency and no configurations | `npm i -g react-app ` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 <a href="https://github.com/facebook/react-native" target="_blank"> react-native </a> | A framework for building native apps with React. | `npm i -g react-native-cli` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
