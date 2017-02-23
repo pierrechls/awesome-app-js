@@ -200,6 +200,7 @@ Name | Description | Install | Compatibility |
 
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/alessiomaffeis/vue-picture-input" target="_blank">vue-picture-input</a> | Mobile-friendly picture file input Vue.js component with image preview, drag and drop, EXIF orientation, and more | ` npm i -S vue-picture-input` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/hammerjs/hammer.js" target="_blank">Hammer</a> | A javascript library for multi-touch gestures. You can touch this ! | ` npm i -S hammerjs` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/soixantecircuits/piano" target="_blank">Piano</a> | Virtual keyboard for touch devices | `npm i -S piano.js` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 <a href="https://github.com/joeferner/node-serialport2" target="_blank">SerialPort2</a> | node.js serial port driver | ` npm i -S serialport2` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
