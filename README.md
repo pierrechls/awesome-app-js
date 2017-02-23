@@ -29,12 +29,6 @@ Name | Description | Install  | Compatibility |
 <a href="https://github.com/yeoman/yo" target="_blank"> yo </a> | CLI tool for running Yeoman generators | `npm i -g yo ` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 <a href="https://github.com/yeoman/update-notifier" target="_blank"> update-notifier </a> | Update notifications for your CLI app | `npm i -S update-notifier ` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 
-## Fonts
-
-Name | Description | Install  | Compatibility |
-------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/KyleAMathews/typefaces" target="_blank"> typefaces </a> | NPM packages for Open Source typefaces — making it easier to self-host webfonts. | `npm i -S typeface-myopensourcefont` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
-
 ## Routing
 
 Name | Description | Install | Compatibility |
@@ -107,6 +101,8 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/blueimp/JavaScript-Load-Image" target="_blank">Javascript-Load-Image</a> | JavaScript Load Image is a library to load images provided as File or Blob objects or via URL |  `npm i -S blueimp-load-image` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/imulus/retinajs" target="_blank">RetinaJS</a> | Open source script that serves high-resolution images to devices with retina displays | ` npm i -S retina.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/mattnedrich/palette-maker" target="_blank">palette-maker</a> | Palette Maker is an interactive web tool that allows you to explore different approaches to extract color palettes from images | ` npm i -S palette-maker` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/kciter/qart.js" target="_blank">qart.js</a> | Generate artistic QR code.  | ` npm i -S qartjs ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+
 
 ## Video playback
 
@@ -314,6 +310,12 @@ Name | Description | Install  | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
 <a href="http://i18next.com/" target="_blank">i18next</a> | internationalization ecosystem framework, i18next is a very popular internationalization library for browser or any other javascript environment (eg. node.js). | ` npm i -S i18next` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/kazupon/vue-i18n" target="_blank">vue-i18n</a> | Internationalization plugin of Vue.js  | ` npm i -S vue-i18n`| [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+
+## Fonts
+
+Name | Description | Install  | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/KyleAMathews/typefaces" target="_blank"> typefaces </a> | NPM packages for Open Source typefaces — making it easier to self-host webfonts. | `npm i -S typeface-myopensourcefont` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 
 ## Crédits
 
