@@ -120,6 +120,12 @@ Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- | 
 <a href="https://github.com/JonathanSpeek/spacegrid" target="_blank"> spacegrid </a> | A no-frills responsive grid layout to help you get started on your next project. | ` npm i -S spacegrid` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
+## Parallax
+
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- | 
+<a href="https://github.com/dixonandmoe/rellax" target="_blank"> rellax </a> | Lightweight, vanilla javascript parallax library | ` npm i -S rellax` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+
 ## Slider
 
 Name | Description | Install | Compatibility |
