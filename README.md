@@ -158,11 +158,12 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/processing/p5.js" target="_blank">p5.js</a> | p5.js is a JavaScript library that starts with the original goal of Processing, to make coding accessible for artists, designers, educators, and beginners, and reinterprets this for today's web. | ` npm i -S p5` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/pyalot/webgl-heatmap" target="_blank">webgl-heatmap</a> | A high performance WebGL/JS heatmap display library | `npm i -S webgl-heatmap` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 
-## Virtual reality
+## Virtual and Augmented Reality
 
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/aframevr/aframe" target="_blank">A-Frame</a> | A web framework for building virtual reality experiences. A-Frame handles the 3D and WebVR boilerplate required to get running across platforms including mobile, desktop, Vive, and Rift. | `npm i -S aframe` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/jeromeetienne/AR.js" target="_blank">AR.js</a> | Efficient Augmented Reality for the Web using ARToolKit (a-frame and Three.js compatibilities) | | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 
 ## Effects
 
