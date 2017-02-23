@@ -33,6 +33,7 @@ Name | Description | Install  | Compatibility |
 
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/vuejs/vue-router" target="_blank">vue-router</a> | The official router for Vue.js.  | ` npm i -S vue-router` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
 <a href="https://millermedeiros.github.io/crossroads.js/" target="_blank">Crossroads</a> | It parses a string input and decides which action should | ` npm i -S crossroads` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
 <a href="https://github.com/millermedeiros/hasher/" target="_blank">Hasher</a> | Set of JavaScript functions to control browser history for rich-media websites and applications. | ` npm i -S hasher` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
 
