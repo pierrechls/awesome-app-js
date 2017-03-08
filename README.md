@@ -296,6 +296,8 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/micotton/dejavue" target="_blank">dejavue</a> | Visualization and debugging tool built for Vue.js | [Chrome Web Store](https://chrome.google.com/webstore/detail/dejavue/jpigngmphmclcmikmcbcfplgnhlnefbp) | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/vue-play/vue-play" target="_blank">vue-play</a> | A minimalistic framework for demonstrating your Vue components | ` npm i -S vue-play vue-play-cli` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/queckezz/fmt-obj" target="_blank">fmt-obj</a> | Prettifies any javascript object in your console. Make it look awesome! | `npm i -S vue-play fmt-obj` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/Jam3/devtool" target="_blank"> devtool </a> | Runs Node.js programs through Chromium DevTools (using Electron) | `npm i -g devtool` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
+
 
 ## Tiers service
 
