@@ -104,6 +104,7 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/imulus/retinajs" target="_blank">RetinaJS</a> | Open source script that serves high-resolution images to devices with retina displays | ` npm i -S retina.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/mattnedrich/palette-maker" target="_blank">palette-maker</a> | Palette Maker is an interactive web tool that allows you to explore different approaches to extract color palettes from images | ` npm i -S palette-maker` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/kciter/qart.js" target="_blank">qart.js</a> | Generate artistic QR code.  | ` npm i -S qartjs ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/justclear/blurify" target="_blank"> blurify </a> | Tiny library to blurred pictures, support graceful downgrade from css mode to canvas mode.  | ` npm i -S blurify ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 
 ## Video playback
