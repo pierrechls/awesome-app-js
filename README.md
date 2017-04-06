@@ -5,7 +5,7 @@ This document lists javascript libraries that I use. They are compatible with We
 ## Template engine
 
 Name | Description | Install | Compatibility |
-------------- | ------------- | ------------- | ------------- | 
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/vuejs/vue" target="_blank">Vue.js</a> | Simple, Fast &amp; Composable MVVM for building interactive interfaces | ` npm i -S vue` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/facebook/react" target="_blank">React</a> | A declarative, efficient, and flexible JavaScript library for building user interfaces. | ` npm i -S react` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/facebook/react-native" target="_blank">React Native</a> | A framework for building native apps with React. | ` npm i -S react-native` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
@@ -51,7 +51,7 @@ Name | Description | Install | Compatibility |
 ## Process manager
 
 Name | Description | Install | Compatibility |
-------------- | ------------- | ------------- | ------------- | 
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/Unitech/pm2" target="_blank"> PM2 </a> | Production process manager for Node.js apps with a built-in load balancer | `npm i pm2 -g` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
 
 ## Request
@@ -68,8 +68,8 @@ Name | Description | Install | Compatibility |
 
 ## Persistent data
 
-Name | Description | Install | Compatibility | 
-------------- | ------------- | ------------- | ------------- | 
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
 <a href="https://developer.mozilla.org/en/docs/Web/API/Window/localStorage" target="_blank">Native LocalStorage</a> | The localStorage property allows you to access a local Storage object.  | `Window.localStorage` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square) |
 <a href="https://github.com/brianleroux/lawnchair" target="_blank">Lawnchair</a> | Simple json storage | ` npm i -S lawnchair` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
 <a href="https://github.com/Ivshti/linvodb3" target="_blank">Linvodb3</a> | Model-oriented embedded database, inspired by Mongoose &amp; MongoDB, over LevelUP | ` npm i -S linvodb3` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
@@ -90,7 +90,7 @@ Name | Description | Install  | Compatibility |
 ## Animation
 
 Name | Description | Install | Compatibility |
-------------- | ------------- | ------------- | ------------- | 
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/greensock/GreenSock-JS" target="_blank">GSAP</a> | Think of GSAP as the Swiss Army Knife of web animation...but better | `npm i -S gsap` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/tweenjs/tween.js/" target="_blank">Tween</a> | Super simple, fast and easy to use tweening engine | ` npm i -S tween.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/sarcadass/granim.js" target="_blank">granim.js</a> | Create fluid and interactive gradients animations | `npm i -S granim` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
@@ -98,8 +98,8 @@ Name | Description | Install | Compatibility |
 
 ## Image manipulation
 
-Name | Description | Install | Compatibility | 
-------------- | ------------- | ------------- | ------------- | 
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
 <a href="http://github.com/exine/fabric-browserify" target="_blank">Fabric.js</a> | Play with the canvas. Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser | `npm i -S fabric` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/leeoniya/RgbQuant.js/" target="_blank">RgbQuant</a> | Color quantization lib | ` npm i -S rgbquant` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/blueimp/JavaScript-Load-Image" target="_blank">Javascript-Load-Image</a> | JavaScript Load Image is a library to load images provided as File or Blob objects or via URL |  `npm i -S blueimp-load-image` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
@@ -112,32 +112,32 @@ Name | Description | Install | Compatibility |
 ## Video playback
 
 Name | Description | Install | Compatibility |
-------------- | ------------- | ------------- | ------------- | 
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/videojs/video.js" target="_blank">VideoJS</a> | An HTML5 and Flash video player with a common API and skin for both | ` npm i -S videojs` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Audio playback
 
 Name | Description | Install | Compatibility |
-------------- | ------------- | ------------- | ------------- | 
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/zohararad/audio5js" target="_blank">audio5</a> | Audio5js a library-agnostic, cross-browser Javascript API for HTML5 Audio, with a Flash fallback for either older browsers or modern browsers without MP3 playback support. | ` npm i -S audio5` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/cotejp/webmidi" target="_blank">webmidi</a> | WebMidi.js helps you tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend, controlchange, etc.). | ` npm i -S webmidi ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Grid
 
 Name | Description | Install | Compatibility |
-------------- | ------------- | ------------- | ------------- | 
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/JonathanSpeek/spacegrid" target="_blank"> spacegrid </a> | A no-frills responsive grid layout to help you get started on your next project. | ` npm i -S spacegrid` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Parallax
 
 Name | Description | Install | Compatibility |
-------------- | ------------- | ------------- | ------------- | 
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/dixonandmoe/rellax" target="_blank"> rellax </a> | Lightweight, vanilla javascript parallax library | ` npm i -S rellax` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Slider
 
 Name | Description | Install | Compatibility |
-------------- | ------------- | ------------- | ------------- | 
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/meandmax/lory" target="_blank">Lory</a> | Touch enabled minimalistic slider written in vanilla JavaScript | ` npm i -S lory.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/dimsemenov/PhotoSwipe" target="_blank">PhotoSwipe</a> | JavaScript image gallery for mobile and desktop, modular, framework independent | ` npm i -S photoswipe` |  [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/nolimits4web/swiper/" target="_blank">Swiper</a> | Most modern mobile touch slider with hardware accelerated transitions | ` npm i -S swiper` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
@@ -153,26 +153,26 @@ Name | Description | Install | Compatibility |
 ## Drag and drop
 
 Name | Description | Install | Compatibility |
-------------- | ------------- | ------------- | ------------- | 
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/taye/interact.js" target="_blank">interact.js</a> | JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+). | `npm i -S interactjs` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 <a href="https://github.com/bevacqua/dragula" target="_blank">Dragula</a> | Drag and drop so simple it hurts | `npm i -S dragula` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 
 ## Helpers
 
-Name | Description | Install | Compatibility | 
-------------- | ------------- | ------------- | ------------- | 
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/vuejs/vue-migration-helper" target="_blank">vue-migration-helper</a> | CLI tool to aid in migration from Vue 1.x to 2.0. | `npm i -g vue-migration-helper` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Mailing
 
 Name | Description | Install | Compatibility |
-------------- | ------------- | ------------- | ------------- | 
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/nodemailer/nodemailer" target="_blank"> nodemailer </a> | Send e-mails from Node.js easy as cake! The community version of Nodemailer is a module for Node.js applications to allow email sending. The project got started back in 2010 when there was no sane option to send email messages, today it is the solution most Node.js users turn to by default. | `npm i -S nodemailer` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Rendering
 
-Name | Description | Install | Compatibility | 
-------------- | ------------- | ------------- | ------------- | 
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/mrdoob/three.js/" target="_blank">Three</a> | JavaScript 3D library | ` npm i -S three` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 <a href="https://github.com/whitestormjs/whitestorm.js" target="_blank">whitestorm.js</a> | Super-fast 3D framework for web applications and games | ` npm i -S whs ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/pixijs/pixi.js" target="_blank">Pixi</a> | Pixi.js is a fast lightweight 2D library that works across all devices | ` npm i -S pixi.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
@@ -196,8 +196,8 @@ Name | Description | Install | Compatibility |
 
 ## Recording
 
-Name | Description | Install | Compatibility | 
-------------- | ------------- | ------------- | ------------- | 
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/niklasvh/html2canvas" target="_blank">Html2canvas</a> | The script allows you to take "screenshots" of webpages or parts of it, directly on the users browser | ` npm i -S html2canvas` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/sole/Animated_GIF" target="_blank">Animated_gif</a> | Javascript library for creating animated GIFs | ` npm i -S animated_gif` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/spite/ccapture.js/" target="_blank">CCapture</a> | A library to capture canvas-based animations at a fixed framerate | `npm i -S ccapture.js` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
@@ -222,8 +222,8 @@ Name | Description | Install | Compatibility |
 
 ## Camera
 
-Name | Description | Install | Compatibility | 
-------------- | ------------- | ------------- | ------------- | 
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/jhuckaby/webcamjs" target="_blank">WebcamJS</a> | HTML5 Webcam Image Capture Library with Flash Fallback | `npm i -S webcamjs` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Signal processing
@@ -241,20 +241,21 @@ Name | Description | Install | Compatibility |
 
 ## Emoji
 
-Name | Description | Install | Compatibility | 
-------------- | ------------- | ------------- | ------------- | 
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/Ranks/emojione" target="_blank">emojione</a> | Emojione is the open emoji standard. The web's first and only complete open source emoji set. It is 100% free and super easy to integrate. | `npm i -S emojione` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 
 ## Tooling
 
-Name | Description | Install | Compatibility | 
-------------- | ------------- | ------------- | ------------- | 
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/lodash/lodash" target="_blank">lodash</a> | Rotates the elements of an array in place. | `npm i -S lodash` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/CMTegner/rotate-array" target="_blank">rotate-array</a> | utility library delivering modularity, performance, & extras to play with Arrays, Collection and more | `npm i -S rotate-array` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/soixantecircuits/Idle.js" target="_blank">Idle.js</a> | Script to create handlers for onIdle onActive onHidden onShow statuses, compatible with `<script>` tag and webpack | `npm i -S idle-js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="http://www.stringjs.com/" target="_blank">StringJS</a> | JavaScript library for the browser or for Node.js that provides extra String methods | ` npm i -S string` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/hubspot/offline" target="_blank">Offline</a> | Automatically display online/offline indication to your users |  | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 <a href="https://noraesae.github.io/perfect-scrollbar/" target="_blank">PerfectScroll</a> | minimalistic scrollbar plugin working with jQuery or vanilla JavaScript as well. | ` npm i -S perfect-scrollbar` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/atomiks/tippyjs" target="_blank">tippyjs</a> | A lightweight, pure JS tooltip library  | ` npm i -S tippy.js` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/moment/moment" target="_blank">Moment</a> | Parse, validate, manipulate, and display dates in javascript | ` npm i -S moment` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/szimek/signature_pad" target="_blank">Signature_pad</a> | HTML5 canvas based smooth signature drawing | ` npm i -S signature_pad` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://code.google.com/archive/p/dat-gui/" target="_blank">Dat-Gui</a> | A lightweight graphical user interface for changing variables in JavaScript | ` npm i -S dat-gui` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
@@ -268,7 +269,7 @@ Name | Description | Install | Compatibility |
 
 ## PDF
 
-Name | Description | Install | Compatibility | 
+Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/bpampuch/pdfmake" target="_blank">Pdfmake</a> | A lightweight graphical user interface for changing variables in JavaScript | ` npm i -S pdfmake` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
@@ -281,15 +282,15 @@ Name | Description | Install | Compatibility |
 
 ## Tracking
 
-Name | Description | Install | Compatibility | 
+Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/crookedneighbor/amplitude" target="_blank">Amplitude</a> | A node wrapper for Amplitude analytics | ` npm i -S amplitude` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 <a href="https://github.com/andjosh/gatrack.js" target="_blank">GATracks</a> | Easily track user events with Google Analytics. Test UI/UX theories, compare client performance/speed, even track client-side errors. All user events are tied to all other session data in Google Analytics. | ` npm i -S gatrack` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Social network
 
-Name | Description | Install | Compatibility | 
-------------- | ------------- | ------------- | ------------- | 
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/ttezel/twit" target="_blank">Twit</a> | Twitter API client for node (REST &amp; Streaming) | ` npm i -S twit` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 <a href="https://github.com/totemstech/instagram-node" target="_blank">Instagram-node</a> | NodeJS driver for the instagram API | ` npm i -S instagram-node` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 <a href="https://github.com/node-facebook/facebook-node-sdk" target="_blank">Fb</a> | With facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK) | ` npm i -S fb` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
