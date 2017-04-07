@@ -219,6 +219,7 @@ Name | Description | Install | Compatibility |
 <a href="http://monospaced.github.io/hamster.js/" target="_blank">Hamsterjs</a> | Standalone javascript library for cross-browser mouse wheel support | ` npm i -S hamsterjs` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/monterail/vue-multiselect" target="_blank">vue-multiselect</a> | Probably the most complete selecting solution for Vue.js, without jQuery. | ` npm i -S vue-multiselect` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/KaneCohen/tokenfield" target="_blank"> tokenfield </a> | Input field with tagging/token/chip capabilities written in raw JavaScript. | ` npm i -S tokenfield` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/vuwe/vue-flatpickr" target="_blank"> vue-flatpickr </a> | Flatpickr for VueJS. | ` npm i -S vue-flatpickr` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Camera
 
