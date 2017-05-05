@@ -47,6 +47,7 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/socketio/socket.io/" target="_blank">Socket.io client</a> | Socket.IO enables real-time bidirectional event-based communication | ` npm i -S socket.io-client` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
 <a href="https://github.com/soixantecircuits/spacebro" target="_blank">Spacebro</a> | Server for broadcasting socket.io service | ` npm i -S spacebro` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square) |
 <a href="https://github.com/soixantecircuits/spacebro-client" target="_blank">Spacebro client</a> | Connect thru socket.io with ZeroConf | ` npm i -S spacebro-client` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square) |
+<a href="https://github.com/wingify/across-tabs" target="_blank">across-tabs</a> | Easy communication between cross-origin browser tabs | ` npm i -S across-tabs` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
 
 ## Process manager
 
