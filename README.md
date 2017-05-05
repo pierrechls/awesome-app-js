@@ -268,6 +268,7 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/Sopamo/vue-online" target="_blank">vue-online</a> | A reactive online/offline component for vue.js |  ` npm i --save-dev vue-online` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/sindresorhus/opn" target="_blank">opn</a> | A better node-open. Opens stuff like websites, files, executables. Cross-platform. |  ` npm i -S opn` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/SBoudrias/Inquirer.js" target="_blank">inquirer.js</a> | A collection of common interactive command line user interfaces. |  ` npm i -S inquirer ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/KyleAMathews/deepmerge" target="_blank">deepmerge</a> | A library for deep (recursive) merging of Javascript objects |  ` npm i -S deepmerge ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## PDF
 
