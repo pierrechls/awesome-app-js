@@ -158,6 +158,7 @@ Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/taye/interact.js" target="_blank">interact.js</a> | JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+). | `npm i -S interactjs` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 <a href="https://github.com/bevacqua/dragula" target="_blank">Dragula</a> | Drag and drop so simple it hurts | `npm i -S dragula` | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
+<a href="https://github.com/SortableJS/Vue.Draggable" target="_blank">Vue.Draggable</a> | Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js | `npm i -S vuedraggable` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Helpers
 
