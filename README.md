@@ -56,6 +56,7 @@ Name | Description | Install | Compatibility |
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/Unitech/pm2" target="_blank"> PM2 </a> | Production process manager for Node.js apps with a built-in load balancer | `npm i pm2 -g` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
+<a href="https://github.com/foreverjs/forever" target="_blank"> forever </a> | A simple CLI tool for ensuring that a given script runs continuously | ` npm i forever -g` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square) |
 
 ## Request
 
