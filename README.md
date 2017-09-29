@@ -314,6 +314,8 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/medikoo/cli-color" target="_blank">cli-color</a> | Colors and formatting for the console | `npm i -S cli-color` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/Jam3/devtool" target="_blank"> devtool </a> | Runs Node.js programs through Chromium DevTools (using Electron) | `npm i -g devtool` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 <a href="https://github.com/qingwei-li/vue-trend" target="_blank"> vue-trend </a> | Simple, elegant spark lines for Vue.js | `npm i -S vuetrend` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/arvidkahl/vue-json-tree-view" target="_blank"> vue-json-tree-view </a> | A JSON Tree View Component for Vue.js | `npm i -S vue-json-tree-view` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/caldwell/renderjson" target="_blank"> renderjson </a> | Render JSON into collapsible HTML | `npm i -S renderjson` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 
 ## Tiers service
