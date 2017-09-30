@@ -336,6 +336,7 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/arvidkahl/vue-json-tree-view" target="_blank"> vue-json-tree-view </a> | A JSON Tree View Component for Vue.js | `npm i -S vue-json-tree-view` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/caldwell/renderjson" target="_blank"> renderjson </a> | Render JSON into collapsible HTML | `npm i -S renderjson` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/williamngan/pts" target="_blank"> pts </a> | Compose and visualize points in spaces | `npm i -S pts ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/uber/deck.gl" target="_blank"> deck.gl </a> | WebGL based visualization layers | `npm i -S deck.gl ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 
 ## Tiers service
