@@ -1,6 +1,6 @@
 # Awesome JavaScript libraries [![Awesome](https://rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This document lists javascript libraries that I use. They are compatible with Webpack and run in the browser and / or node only. I also strongly recommend you to read these two ressources about JavaSript : [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) (a book series exploring the parts of JavaScript that we all think we understand but don't really know) and [Functional Light JS](https://github.com/getify/Functional-Light-JS) (a book about functional programming in JavaScript). Let's build something great ! ⚒
+This document lists javascript libraries that I use. I also strongly recommend you to read these two ressources about JavaSript : [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) (a book series exploring the parts of JavaScript that we all think we understand but don't really know) and [Functional Light JS](https://github.com/getify/Functional-Light-JS) (a book about functional programming in JavaScript). In the same spirit, I recommend you to read the [wtfjs](https://github.com/denysdovhan/wtfjs) listing funny and tricky JavaScript examples. Let's build something great ! ⚒
 
 ## Template engine
 
