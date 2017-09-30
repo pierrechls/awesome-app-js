@@ -350,6 +350,8 @@ Name | Description | Install  | Compatibility |
 Name | Description | Install  | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/KyleAMathews/typefaces" target="_blank"> typefaces </a> | NPM packages for Open Source typefaces — making it easier to self-host webfonts. | `npm i -S typeface-myopensourcefont` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
+<a href="https://github.com/jenil/icongram" target="_blank"> icongram </a> | Icons on the fly | <a href="https://icongr.am/" target="_blank"> RTFM </a> | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
+<a href="https://github.com/rsms/inter" target="_blank"> inter </a> | The Inter UI font family | <a href="https://icongr.am/" target="_blank"> RTFM </a> | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 
 ## Crédits
 
