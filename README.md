@@ -105,6 +105,12 @@ Name | Description | Install  | Compatibility |
 <a href="https://github.com/WP-API/node-wpapi" target="_blank">node-wpapi</a> | A WordPress REST API client for JavaScript. This library is an isomorphic client for the WordPress REST API, designed to work with WordPress 4.7 or later. If you are using the older WP REST API plugin, some commands will not work. | `npm i -S wpapi` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yello.svg?style=flat-square)
 <a href="https://github.com/typicode/json-server" target="_blank">json-server</a> | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | `npm i json-server -g` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yello.svg?style=flat-square)
 
+## Chatbot
+
+Name | Description | Install | Compatibility |
+------------- | ------------- | ------------- | ------------- |
+<a href="https://github.com/LucasBassetti/react-simple-chatbot" target="_blank">react-simple-chatbot</a> | Easy way to create conversation chats |  `npm i -S react-simple-chatbot` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square) |
+
 ## Animation
 
 Name | Description | Install | Compatibility |
