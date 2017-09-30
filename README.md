@@ -298,6 +298,7 @@ Name | Description | Install | Compatibility |
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/bpampuch/pdfmake" target="_blank">Pdfmake</a> | A lightweight graphical user interface for changing variables in JavaScript | ` npm i -S pdfmake` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/esbenp/pdf-bot" target="_blank">pdf-bot</a> | A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs | ` npm i -g pdf-bot` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 
 ## Perf
 
@@ -334,6 +335,7 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/qingwei-li/vue-trend" target="_blank"> vue-trend </a> | Simple, elegant spark lines for Vue.js | `npm i -S vuetrend` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/arvidkahl/vue-json-tree-view" target="_blank"> vue-json-tree-view </a> | A JSON Tree View Component for Vue.js | `npm i -S vue-json-tree-view` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/caldwell/renderjson" target="_blank"> renderjson </a> | Render JSON into collapsible HTML | `npm i -S renderjson` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/williamngan/pts" target="_blank"> pts </a> | Compose and visualize points in spaces | `npm i -S pts ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 
 ## Tiers service
