@@ -10,7 +10,6 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/facebook/react" target="_blank">React</a> | A declarative, efficient, and flexible JavaScript library for building user interfaces. | ` npm i -S react` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/facebook/react-native" target="_blank">React Native</a> | A framework for building native apps with React. | ` npm i -S react-native` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/janl/mustache.js" target="_blank">mustache.js</a> | Minimal templating with {{mustaches}} in JavaScript | ` npm i -S mustache` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
-<a href="https://github.com/twigjs/twig.js" target="_blank">twig.js</a> | JS implementation of the Twig Templating Language | ` npm i -S twig` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Deployment
 
@@ -39,6 +38,10 @@ Name | Description | Install  | Compatibility |
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
 <a href="https://github.com/jgthms/bulma" target="_blank">bulma</a> | Modern CSS framework based on Flexbox | ` npm i -S bulma` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/twigjs/twig.js" target="_blank">twig.js</a> | JS implementation of the Twig Templating Language | ` npm i -S twig` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/google/material-design-lite" target="_blank"> material-design-lite </a> | Material Design Components in HTML/CSS/JS | <a href="https://getmdl.io/" target="_blank"> RTFM </a> | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
+<a href="https://github.com/vuematerial/vue-material" target="_blank"> vue-material </a> | Material design for Vue.js | `npm i -S vue-material` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/posva/vue-mdc" target="_blank"> vue-mdc </a> | Material web components for Vue.js | `npm i -S vue-mdc` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## Routing
 
