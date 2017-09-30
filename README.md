@@ -32,6 +32,7 @@ Name | Description | Install  | Compatibility |
 <a href="https://github.com/yeoman/update-notifier" target="_blank"> update-notifier </a> | Update notifications for your CLI app | `npm i -S update-notifier ` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 <a href="https://github.com/mattallty/Caporal.js" target="_blank"> Caporal.js </a> | A full-featured framework for building command line applications (cli) with node.js | `npm i -S caporal ` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
 <a href="https://github.com/lerna/lerna" target="_blank"> lerna </a> | A tool for managing JavaScript projects with multiple packages.  | `npm i -g lerna` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)
+<a href="https://github.com/crudlio/crudl" target="_blank">crudl</a> | CRUDL is a backend agnostic REST and GraphQL based admin interface | <a href="http://crudl.io/" target="_blank"> RTFM </a> | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 
 ## DOM rendering
 
