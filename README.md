@@ -295,6 +295,7 @@ Name | Description | Install | Compatibility |
 <a href="https://github.com/hughsk/flat" target="_blank">flat</a> | Flatten/unflatten nested Javascript objects |  ` npm i -S flat ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/kriskowal/q" target="_blank"> q </a> | A promise library for JavaScript |  ` npm i -S q ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 <a href="https://github.com/algolia/vue-instantsearch" target="_blank">vue-instantsearch</a> | Algolia components for building search UIs with Vue.js |  ` npm i -S vue-instantsearch ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/sindresorhus/meow" target="_blank"> meow </a> | CLI app helper |  ` npm i -S meow ` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
 
 ## PDF
 
@@ -365,6 +366,6 @@ Name | Description | Install  | Compatibility |
 <a href="https://github.com/jenil/icongram" target="_blank"> icongram </a> | Icons on the fly | <a href="https://icongr.am/" target="_blank"> RTFM </a> | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 <a href="https://github.com/rsms/inter" target="_blank"> inter </a> | The Inter UI font family | <a href="https://icongr.am/" target="_blank"> RTFM </a> | [![Coverage](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)](https://img.shields.io/badge/coverage-chrome-orange.svg?style=flat-square)
 
-## Crédits
+## Credits
 
 This is inspired from the [list](https://github.com/soixantecircuits/awesome-app-js) of Soixante Circuits. Most credit goes to them! 👏
