@@ -180,7 +180,8 @@ Name | Description | Install | Compatibility |
 
 Name | Description | Install | Compatibility |
 ------------- | ------------- | ------------- | ------------- |
-<a href="https://github.com/vuejs/vue-migration-helper" target="_blank">vue-migration-helper</a> | CLI tool to aid in migration from Vue 1.x to 2.0. | `npm i -g vue-migration-helper` | [![Coverage](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)](https://img.shields.io/badge/coverage-both-green.svg?style=flat-square)
+<a href="https://github.com/vuejs/vue-migration-helper" target="_blank">vue-migration-helper</a> | CLI tool to aid in migration from Vue 1.x to 2.0. | `npm i -g vue-migration-helper` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yello.svg?style=flat-square)
+<a href="https://github.com/p-adams/vue-help" target="_blank">vue-help</a> | Vue.js API in the Terminal | `npm i -g vue-help` | [![Coverage](https://img.shields.io/badge/coverage-node-yellow.svg?style=flat-square)](https://img.shields.io/badge/coverage-node-yello.svg?style=flat-square)
 
 ## Mailing
 
